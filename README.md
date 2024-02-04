@@ -1,16 +1,16 @@
 ### Hi there 👋
-
 <!--
-**HanaKong/HanaKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚EDU
+- 청주 그린 컴퓨터 아카데미 백엔드과정 수료 (2023.03 - 23.08)
+- SSAFY 11기 (2024.01 - ing)
 
-Here are some ideas to get you started:
+### 🎨PROJECT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+|PERIOD|TITLE|SUBJECT|
+|---|---|---|
+|23.07 - 08|레고 쇼핑몰|레고 쇼핑몰 디자인 변경(개인 프로젝트)|
+|---|---|---| 
+
+### 📝SKILL
+Java / Javascript / Spring /
 -->
