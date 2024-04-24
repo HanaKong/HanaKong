@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+
+
+![snake gif](https://github.com/HanaKong/HanaKong/blob/output/github-contribution-grid-snake.svg)
 <!--
 ### 📚EDU
 - 청주 그린 컴퓨터 아카데미 백엔드과정 수료 (2023.03 - 23.08)
